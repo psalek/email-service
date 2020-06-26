@@ -1,0 +1,7 @@
+email-service:
+  from-email: Seasons Comittee <abc@xyz.com>
+  host: smtp.office365.com
+  port: 587
+  username: abc@xyz.com
+  password: password
+ 
